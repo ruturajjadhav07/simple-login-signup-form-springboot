@@ -27,7 +27,6 @@ The following dependencies were selected via [Spring Initializr](https://start.s
 1. **Clone the repository**:
     ```bash
     git clone https://github.com/ruturajjadhav07/simple-login-signup-form-springboot.git
-    cd login-signup-springboot
     ```
 
 2. **Database Setup**:
@@ -86,10 +85,11 @@ CREATE TABLE userSignup (
 
 **Screenshots**
 Signup Page:
-![image](https://github.com/user-attachments/assets/bf74284c-6db3-450b-98b1-e71d02b85ce6)
+![image](https://github.com/user-attachments/assets/268a2540-2ce2-4733-acec-6aed39b121d4)
 
 Login Page:
-![image](https://github.com/user-attachments/assets/78417431-1b89-43f0-9179-359cb5df04ef)
+![image](https://github.com/user-attachments/assets/0f0298e3-ee8b-4ba1-a0b5-e59a92c761c9)
 
 Welcome Page:
-![image](https://github.com/user-attachments/assets/006cb0ff-a1b4-465d-98bd-c7d12d3bcf22)
+![image](https://github.com/user-attachments/assets/6037ee99-ae4a-4520-940a-eea9f897d314)
+
